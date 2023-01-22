@@ -1,0 +1,22 @@
+1662513696690	geckodriver	INFO	Listening on 127.0.0.1:50479
+1662513699761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50480" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile76OVgC"
+1662513703609	Marionette	INFO	Marionette enabled
+1662513703622	Marionette	INFO	Listening on port 50492
+Read port: 50492
+WebDriver BiDi listening on ws://localhost:50480
+1662513704507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile76OVgC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50480/devtools/browser/26df3a3d-d143-48ec-a0c6-46654d325a1e
+JavaScript warning: https://analytics.disney.go.com/analytics/framework/wdw/stable/framework-top.min.js, line 1030: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662513817279	Marionette	INFO	Stopped listening on port 50492
+1662513904771	geckodriver	INFO	Listening on 127.0.0.1:50641
+1662513907756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileCG3GSn"
+1662513908516	Marionette	INFO	Marionette enabled
+1662513908522	Marionette	INFO	Listening on port 50653
+WebDriver BiDi listening on ws://localhost:50642
+Read port: 50653
+1662513909311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileCG3GSn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50642/devtools/browser/68ed07bc-e34a-4130-9e48-0a289aab5fbd
+JavaScript warning: https://analytics.disney.go.com/analytics/framework/wdw/stable/framework-top.min.js, line 1030: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662514016364	Marionette	INFO	Stopped listening on port 50653
